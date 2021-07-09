@@ -1,0 +1,2 @@
+# editor
+$ npm install editorconfig
